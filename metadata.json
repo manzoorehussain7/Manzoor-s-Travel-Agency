@@ -1,0 +1,6 @@
+{
+  "name": "Manzoor's Travel Agency - Quetta Pakistan",
+  "description": "Premier tour operator and travel agency based in Quetta, Balochistan, specializing in Pakistan tourism, Northern areas, Ziarat, Hunza, Skardu, and custom tour packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
